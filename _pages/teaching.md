@@ -48,6 +48,16 @@ nav: true
 <h2>Winter Semester 2021-2022</h2>
 * <a href="https://www.in.tum.de/caps/lehre/ws21/seminare/cloud-computing/">Cloud Computing Seminar</a>
 * <a href="https://www.in.tum.de/caps/lehre/ws21/praktika/iot-sensor-node-laboratory/">IoT Sensor Nodes Laboratory</a>
+* [Ongoing] <strong><em> Bunk8s: Enabling easy Integration Testing of Microservices in Kubernetes. </em></strong> Christoph Reile (in collab. with <a href="https://www.maibornwolff.de/en/news-portal">Maibornwolff</a>).
+* [Completed, July 2021] <strong><em> Enabling MPI-based Serverless Computing. </em></strong> Nils Krueger.
+
+<br>
+<!-- For students at TUM. -->
+<h2>Teaching</h2>
+<br>
+<h2>Winter Semester 2021-2022</h2>
+* <a href="https://www.in.tum.de/caps/lehre/ws21/seminare/cloud-computing/">Cloud Computing Seminar</a>
+* <a href="https://www.in.tum.de/caps/lehre/ws21/praktika/iot-sensor-node-laboratory/">IoT Sonsor Nodes Laboratory</a>
 
 <h2>Summer Semester 2021</h2>
 * <a href="https://www.in.tum.de/caps/lehre/ss-21/seminare/cloud-computing-artificial-intelligence-for-it-operations-aiops/">Cloud Computing Seminar: Artificial Intelligence for IT Operations (AIOps)</a>
