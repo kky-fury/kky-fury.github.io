@@ -1,18 +1,12 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Jindal":
+  - firstname: ["Anshul", "Anshul Jindal"]
+    url: https://www.in.tum.de/caps/mitarbeiter/anshul-jindal/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Gerndt":
+  - firstname: ["Michael", "Michael Gerndt"]
+    url: https://www.in.tum.de/caps/mitarbeiter/michael-gerndt/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"John":
+  - firstname: ["Jophin", "Jophin John"]
+    url: https://www.in.tum.de/caps/mitarbeiter/jophin-john/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach

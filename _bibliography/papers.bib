@@ -1,72 +1,140 @@
----
----
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
+@article{DBLP:journals/spe/JindalGCPC21,
+  author    = {Anshul Jindal and
+               Michael Gerndt and
+               Mohak Chadha and
+               Vladimir Podolskiy and
+               Pengfei Chen},
+  title     = {Function delivery network: Extending serverless computing for heterogeneous
+               platforms},
+  journal   = {Softw. Pract. Exp.},
+  volume    = {51},
+  number    = {9},
+  pages     = {1936--1963},
+  year      = {2021},
+  url       = {https://doi.org/10.1002/spe.2966},
+  doi       = {10.1002/spe.2966},
+  timestamp = {Thu, 12 Aug 2021 17:51:17 +0200},
+  biburl    = {https://dblp.org/rec/journals/spe/JindalGCPC21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  html = {https://doi.org/10.1002/spe.2966},
+  abbr={Soft. Prac. Exp.},
+  publisher={Wiley Online Library},
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
   selected={true}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+
+@inproceedings{chadhaarchitecture,
+  author={Chadha, Mohak and Jindal, Anshul and Gerndt, Michael},
+  booktitle={2021 IEEE 14th International Conference on Cloud Computing (IEEE CLOUD)}, 
+  title={Architecture-Specific Performance Optimization of Compute-Intensive FaaS Functions}, 
+  year={2021},
+  volume={},
+  number={},
+  abbr={IEEE CLOUD},
+  bibtex_show={true},
+  html={https://arxiv.org/pdf/2107.10008.pdf},
+  selected={true}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@inproceedings{deepedgebench,
+  author={Baller, Patrick Stephan and Jindal, Anshul and Chadha, Mohak and Gerndt, Michael},
+  booktitle={2021 IEEE 9th International Conference on Cloud Engineering (IC2E)}, 
+  title={DeepEdgeBench: Benchmarking Deep Neural Networks on Edge Devices}, 
+  year={2021},
+  volume={},
+  number={},
+  abbr={IC2E},
+  bibtex_show={true},
+  html={https://arxiv.org/pdf/2108.09457.pdf},
+  selected={true}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@inproceedings{chadhafl,
+author = {Chadha, Mohak and Jindal, Anshul and Gerndt, Michael},
+title = {Towards Federated Learning Using FaaS Fabric},
+year = {2020},
+isbn = {9781450382045},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3429880.3430100},
+doi = {10.1145/3429880.3430100},
+abstract = {Federated learning (FL) enables resource-constrained edge devices to learn a shared
+Machine Learning (ML) or Deep Neural Network (DNN) model, while keeping the training
+data local and providing privacy, security, and economic benefits. However, building
+a shared model for heterogeneous devices such as resource-constrained edge and cloud
+makes the efficient management of FL-clients challenging. Furthermore, with the rapid
+growth of FL-clients, the scaling of FL training process is also difficult.In this
+paper, we propose a possible solution to these challenges: federated learning over
+a combination of connected Function-as-a-Service platforms, i.e., FaaS fabric offering
+a seamless way of extending FL to heterogeneous devices. Towards this, we present
+FedKeeper, a tool for efficiently managing FL over FaaS fabric. We demonstrate the
+functionality of FedKeeper by using three FaaS platforms through an image classification
+task with a varying number of devices/clients, different stochastic optimizers, and
+local computations (local epochs).},
+booktitle = {Proceedings of the 2020 Sixth International Workshop on Serverless Computing},
+pages = {49–54},
+numpages = {6},
+keywords = {Federated learning, Neural networks, FaaS, Serverless, FaaS platforms, Function-as-a-service},
+location = {Delft, Netherlands},
+series = {WoSC'20},
+bibtex_show={true},
+html={https://www.researchgate.net/profile/Anshul-Jindal-2/publication/346740625_Towards_Federated_Learning_using_FaaS_Fabric/links/5fd00998a6fdcc697bef60f5/Towards-Federated-Learning-using-FaaS-Fabric.pdf},
+abbr={WoSC@Middleware},
 }
+
+@inproceedings{chadhaextend,
+  author={Chadha, Mohak and John, Jophin and Gerndt, Michael},
+  booktitle={2020 IEEE 27th International Conference on High Performance Computing, Data, and Analytics (HiPC)}, 
+  title={Extending SLURM for Dynamic Resource-Aware Adaptive Batch Scheduling}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={223-232},
+  doi={10.1109/HiPC50609.2020.00036},
+  abbr={HiPC},
+  bibtex_show={true},
+  html={https://arxiv.org/pdf/2009.08289.pdf},
+  }
+
+@inproceedings{chadha2016unified,
+  title={Unified power and energy measurement API for HPC co-processors},
+  author={Chadha, Mohak and Srivastava, Abhishek and Sarkar, Santonu},
+  booktitle={2016 IEEE 35th International Performance Computing and Communications Conference (IPCCC)},
+  pages={1--8},
+  year={2016},
+  organization={IEEE},
+  abbr={IPCCC},
+  html={https://ieeexplore.ieee.org/abstract/document/7820633},
+  bibtex_show={true}
+}
+
+@inproceedings{chadhastat,
+  author={Chadha, Mohak and Ilsche, Thomas and Bielert, Mario and Nagel, Wolfgang E.},
+  booktitle={2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)}, 
+  title={A Statistical Approach to Power Estimation for x86 Processors}, 
+  year={2017},
+  volume={},
+  number={},
+  pages={1012-1019},
+  doi={10.1109/IPDPSW.2017.98},
+  abbr={HPPAC@IPDPS},
+  html={https://tu-dresden.de/zih/forschung/ressourcen/dateien/projekte/haec/hppac_2017_authorversion.pdf?lang=en},
+  bibtex_show={true}
+}
+
+@inproceedings{chadhamodel,
+  author={Chadha, Mohak and Gerndt, Michael},
+  booktitle={2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS)}, 
+  title={Modelling DVFS and UFS for Region-Based Energy Aware Tuning of HPC Applications}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={805-814},
+  doi={10.1109/IPDPS.2019.00089},
+  bibtex_show={true},
+  html={https://arxiv.org/pdf/2105.09642.pdf},
+  abbr={IPDPS},
+}
+

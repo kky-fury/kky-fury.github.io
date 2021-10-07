@@ -1,24 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://www.in.tum.de/caps/startseite/">Chair of Computer Architecture and Parallel Systems (CAPS)</a>. Technical University of Munich.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room No. 01.04.060</p>
+    <p>Boltzmannstr. 3.</p>
+    <p>Garching, 85748</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
+My name is Mohak Chadha. I am a second-year PhD student at the Technical University of Munich (TUM) advised by <a href="https://www.in.tum.de/caps/mitarbeiter/michael-gerndt/">Prof. Dr. Michael Gerndt.</a> My research interests are in the domain of serverless, parallel, and high-performance computing.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Prior to starting my PhD, I completed my masters in Computer Science from TUM in 2020. During my masters, I worked at the Central Research and Technology (CRT) department at Airbus in Munich on two EU funded projects, i.e., <a href="https://www.aramis2.org/">Aramis 2.</a> and <a href="https://www.coems.eu/">COEMS.</a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before my masters, I recieved my Bachelor's in Computer Science and Master's in Mathematics from  <a href="https://www.bits-pilani.ac.in/">Birla Institute of Technology and Science-Pilani</a> in India. During that time, I interned at <a href="https://www.nvidia.com/en-us/">Nvidia</a>, <a href="https://tu-dresden.de/zih">Center for Information Services and High Performance Computing</a>, TU Dresden, and <a href="https://www.csircmc.res.in/ceeri">Central Electronics Engineering Research Institute</a>, Pilani.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<h3> Contact </h3>
+
+If you are interested in working with me, please send me an email. For students at TUM, looking for thesis topics please see <a href="https://www.in.tum.de/caps/theses/open/#c14921">here</a>.
