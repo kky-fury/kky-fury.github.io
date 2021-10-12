@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-10-07 
+date: 2021-10-12 
 inline: true
 ---
 
-Waiting for Something :)
+Our Paper titled "Courier: Delivering Serverless Functions Within Heterogeneous FaaS Deployments" got accepted at IEEE/ACM UCC'21
