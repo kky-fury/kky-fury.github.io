@@ -52,7 +52,11 @@ nav: true
 * [Completed, July 2021] <strong><em> Enabling MPI-based Serverless Computing. </em></strong> Nils Krueger.
 
 <br>
+<h3> Application Project </h3>
+* [Ongoing] <strong><em> Splitting Neural Networks for Training Using Function Chaining.</em></strong> Adrian David Castro.
+<br>
 <!-- For students at TUM. -->
+<br>
 <h2>Teaching</h2>
 <br>
 <h2>Winter Semester 2021-2022</h2>
