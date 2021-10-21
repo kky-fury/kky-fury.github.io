@@ -8,8 +8,10 @@ nav: true
 <h2>Thesis Supervision</h2>
 <br>
 <h3> Master Thesis </h3>
+* [Ongoing] <strong><em> Mitigating Stragglers in Serverless FL.</em></strong> Mohamed Elzohairy.
+* [Ongoing] <strong><em> Designing an Anormaly Detection Pipeline for Prometheus Metrics. </em></strong> Mertcan Boz (in collab. with SAP Munich).
 * [Ongoing] <strong><em> Smart Monitoring System for Heterogeneous Edge Devices. </em></strong> Akan Öykü Yilmaz.
-* [Completed, September 2021] <strong><em> Towards Demystifying Intra-Function Parallelism in Serverless Computing. </em></strong> Michael Kiener.
+* [Completed, September 2021] <strong><em> Towards Demystifying Intra-Function Parallelism in Serverless Computing. </em></strong> Michael Kiener. <a href="https://mediatum.ub.tum.de/node?id=1624841">[Link]</a>
 * [Completed, August 2021] <strong><em>Secure and Scalable Federated Learning using FaaS. </em></strong> Andreas Grafberger.
 
 <br>
@@ -18,7 +20,11 @@ nav: true
 * [Completed, July 2021] <strong><em> Enabling MPI-based Serverless Computing. </em></strong> Nils Krueger.
 
 <br>
+<h3> Application Project </h3>
+* [Ongoing] <strong><em> Splitting Neural Networks for Training Using Function Chaining.</em></strong> Adrian David Castro.
+<br>
 <!-- For students at TUM. -->
+<br>
 <h2>Teaching</h2>
 <br>
 <h2>Winter Semester 2021-2022</h2>
