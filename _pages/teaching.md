@@ -59,6 +59,11 @@ nav: true
 <br>
 <h2>Teaching</h2>
 <br>
+
+<h2>Summer Semester 2022</h2>
+* <a href="https://www.in.tum.de/caps/lehre/ss22/seminare/cloud-computing-seminar/">Cloud Computing Seminar</a>
+* <a href="https://www.in.tum.de/caps/lehre/ss22/praktika/iot-master-lab-course/">IoT Master Lab Course</a>
+
 <h2>Winter Semester 2021-2022</h2>
 * <a href="https://www.in.tum.de/caps/lehre/ws21/seminare/cloud-computing/">Cloud Computing Seminar</a>
 * <a href="https://www.in.tum.de/caps/lehre/ws21/praktika/iot-sensor-node-laboratory/">IoT Sensor Nodes Laboratory</a>
