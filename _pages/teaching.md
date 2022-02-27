@@ -8,7 +8,7 @@ nav: true
 <h2>Thesis Supervision</h2>
 <br>
 <h3> Master Thesis </h3>
-* [Ongoing] <strong><em> Orchestrating Accelerated AI Model Serving for Industrial Applications at the Edeg</em></strong> Mohamad Kanj (in collab. with Siemens).
+* [Ongoing] <strong><em> Orchestrating Accelerated AI Model Serving for Industrial Applications at the Edge</em></strong> Mohamad Kanj (in collab. with Siemens).
 * [Ongoing] <strong><em> Comparing Open-Source FL Frameworks.</em></strong> Alperen Özkan.
 * [Ongoing] <strong><em> High Performance FL Using Serverless Computing.</em></strong> Evgeni Kiradzhiyski.
 * [Ongoing] <strong><em> Mitigating Stragglers in Serverless FL.</em></strong> Mohamed Elzohairy.
