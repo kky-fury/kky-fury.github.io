@@ -8,23 +8,24 @@ nav: true
 <h2>Thesis Supervision</h2>
 <br>
 <h3> Master Thesis </h3>
+* [Ongoing] <strong><em> Migration and Analysis of Microservices to Serverless Architectures</em></strong> Lennard Nagel (in collab. with Maibornwolff).
+* [Ongoing] <strong><em> Optimizing Cost for Provisioning of Cloud Databases using ML Techniques</em></strong> Berk Gülay (in collab. with SAP Munich).
 * [Ongoing] <strong><em> Orchestrating Accelerated AI Model Serving for Industrial Applications at the Edge</em></strong> Mohamad Kanj (in collab. with Siemens).
 * [Ongoing] <strong><em> Comparing Open-Source FL Frameworks.</em></strong> Alperen Özkan.
 * [Ongoing] <strong><em> High Performance FL Using Serverless Computing.</em></strong> Evgeni Kiradzhiyski.
-* [Ongoing] <strong><em> Mitigating Stragglers in Serverless FL.</em></strong> Mohamed Elzohairy.
-* [Ongoing] <strong><em> Designing an Anormaly Detection Pipeline for Prometheus Metrics. </em></strong> Mertcan Boz (in collab. with SAP Munich).
+* [Completed, May 2022] <strong><em> Mitigating Stragglers in Serverless FL.</em></strong> Mohamed Elzohairy.
 * [Completed, September 2021] <strong><em> Towards Demystifying Intra-Function Parallelism in Serverless Computing. </em></strong> Michael Kiener. <a href="https://mediatum.ub.tum.de/node?id=1624841">[Link]</a>
 * [Completed, August 2021] <strong><em>Secure and Scalable Federated Learning using FaaS. </em></strong> Andreas Grafberger.
 
 <br>
 <h3> Bachelor Thesis </h3>
-* [Ongoing] <strong><em> DevOps Versus NoOps: Performance Comparison of an IoT-Platform. </em></strong> Victor Pacyna.
+* [Completed, May 2022]] <strong><em> DevOps Versus NoOps: Performance Comparison of an IoT-Platform. </em></strong> Victor Pacyna.
 * [Completed, October 2021] <strong><em> Bunk8s: Enabling easy Integration Testing of Microservices in Kubernetes. </em></strong> Christoph Reile (in collab. with <a href="https://www.maibornwolff.de/en/news-portal">Maibornwolff</a>).
 * [Completed, July 2021] <strong><em> Enabling MPI-based Serverless Computing. </em></strong> Nils Krueger.
 
 <br>
 <h3> Application Project </h3>
-* [Ongoing] <strong><em> Splitting Neural Networks for Training Using Function Chaining.</em></strong> Adrian David Castro.
+* [Completed, May 2022] <strong><em> Splitting Neural Networks for Training Using Function Chaining.</em></strong> Adrian David Castro.
 <br>
 <!-- For students at TUM. -->
 <br>
