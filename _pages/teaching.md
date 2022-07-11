@@ -8,7 +8,7 @@ nav: true
 <h2>Thesis Supervision</h2>
 <br>
 <h3> Master Thesis </h3>
-* [Ongoing] <strong><em> Implementing and Evaluating Sensor Network Architectures for Maritime Positioning Applications across heterogeneous edge devices.
+* [Ongoing] <strong><em> Evaluation of Networked Heterogeneous Edge Systems for Maritime Positioning.
 </em></strong> Alexander Steck (in collab. with <a href="https://covadonga.eu/">Covadonga</a>).
 * [Ongoing] <strong><em> Carbon-aware scheduling for Serverless Computing</em></strong>. Thandayuthapani Subramanian.
 * [Ongoing] <strong><em> Migration and Analysis of Microservices to Serverless Architectures</em></strong> Lennard Nagel (in collab. with Maibornwolff).
