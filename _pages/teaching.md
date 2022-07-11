@@ -8,11 +8,14 @@ nav: true
 <h2>Thesis Supervision</h2>
 <br>
 <h3> Master Thesis </h3>
+* [Ongoing] <strong><em> Implementing and Evaluating Sensor Network Architectures for Maritime Positioning Applications across heterogeneous edge devices
+</em></strong> Alexander Steck <a href="https://covadonga.eu/">Covadonga</a>).
+* [Ongoing] <strong><em> Carbon-aware scheduling for Serverless Computing</em></strong> Thandayuthapani Subramanian.
 * [Ongoing] <strong><em> Migration and Analysis of Microservices to Serverless Architectures</em></strong> Lennard Nagel (in collab. with Maibornwolff).
 * [Ongoing] <strong><em> Optimizing Cost for Provisioning of Cloud Databases using ML Techniques</em></strong> Berk Gülay (in collab. with SAP Munich).
 * [Ongoing] <strong><em> Orchestrating Accelerated AI Model Serving for Industrial Applications at the Edge</em></strong> Mohamad Kanj (in collab. with Siemens).
-* [Ongoing] <strong><em> Comparing Open-Source FL Frameworks.</em></strong> Alperen Özkan.
 * [Ongoing] <strong><em> High Performance FL Using Serverless Computing.</em></strong> Evgeni Kiradzhiyski.
+* [Completed, June 2022] <strong><em> Comparing Open-Source FL Frameworks.</em></strong> Alperen Özkan.
 * [Completed, May 2022] <strong><em> Mitigating Stragglers in Serverless FL.</em></strong> Mohamed Elzohairy.
 * [Completed, September 2021] <strong><em> Towards Demystifying Intra-Function Parallelism in Serverless Computing. </em></strong> Michael Kiener. <a href="https://mediatum.ub.tum.de/node?id=1624841">[Link]</a>
 * [Completed, August 2021] <strong><em>Secure and Scalable Federated Learning using FaaS. </em></strong> Andreas Grafberger.

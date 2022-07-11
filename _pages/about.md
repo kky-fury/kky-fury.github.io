@@ -24,4 +24,4 @@ Before my masters, I recieved my Bachelor's in Computer Science and Master's in 
 
 <h3> Contact </h3>
 
-If you are interested in working with me, please send me an email. For students at TUM, looking for thesis topics please see <a href="https://www.in.tum.de/caps/theses/open/#c14921">here</a>.ß
+If you are interested in working with me, please send me an email. For students at TUM, looking for thesis topics please see <a href="https://www.in.tum.de/caps/theses/open/#c14921">here</a>.
