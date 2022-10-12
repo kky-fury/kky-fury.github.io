@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.in.tum.de/caps/startseite/">Chair of Computer Architecture and Parallel Systems (CAPS)</a>. Technical University of Munich.
+description: <a href="https://www.in.tum.de/caps/startseite/">Chair of Computer Architecture and Parallel Systems (CAPS)</a>. Technical University of Munich.
 
 profile:
   align: right
