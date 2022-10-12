@@ -8,13 +8,15 @@ nav: true
 <h2>Thesis Supervision</h2>
 <br>
 <h3> Master Thesis </h3>
+* [Ongoing] <strong><em> Enabling GPUs for Serverless Federated Learning. </em></strong>. Alexander Jensen.
+* [Ongoing] <strong><em> A Shim for Open-Source FaaS Platforms. </em></strong>. Paul Wieland.
 * [Ongoing] <strong><em> Optimizing Cold Starts in FaaS with Machine Learning</em></strong>. Saury Pande.
 * [Ongoing] <strong><em> Evaluation of Networked Heterogeneous Edge Systems for Maritime Positioning.
 </em></strong> Alexander Steck (in collab. with <a href="https://covadonga.eu/">Covadonga</a>).
 * [Ongoing] <strong><em> Carbon-aware scheduling for Serverless Computing</em></strong>. Thandayuthapani Subramanian.
-* [Ongoing] <strong><em> Migration and Analysis of Microservices to Serverless Architectures</em></strong> Lennard Nagel (in collab. with Maibornwolff).
-* [Ongoing] <strong><em> Optimizing Cost for Provisioning of Cloud Databases using ML Techniques</em></strong> Berk Gülay (in collab. with SAP Munich).
-* [Completed, August 2022] <strong><em> Orchestrating Accelerated AI Model Serving for Industrial Applications at the Edge</em></strong> Mohamad Kanj (in collab. with Siemens).
+* [Ongoing] <strong><em> Migration and Analysis of Microservices to Serverless Architectures.</em></strong> Lennard Nagel (in collab. with Maibornwolff).
+* [Ongoing] <strong><em> Optimizing Cost for Provisioning of Cloud Databases using ML Techniques.</em></strong> Berk Gülay (in collab. with SAP Munich).
+* [Completed, August 2022] <strong><em> Orchestrating Accelerated AI Model Serving for Industrial Applications at the Edge.</em></strong> Mohamad Kanj (in collab. with Siemens).
 * [Completed, July 2022] <strong><em> High Performance FL Using Serverless Computing.</em></strong> Evgeni Kiradzhiyski.
 * [Completed, June 2022] <strong><em> Comparing Open-Source FL Frameworks.</em></strong> Alperen Özkan.
 * [Completed, May 2022] <strong><em> Mitigating Stragglers in Serverless FL.</em></strong> Mohamed Elzohairy.
