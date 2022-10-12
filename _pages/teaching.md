@@ -48,17 +48,6 @@ nav: true
 <h2>Winter Semester 2021-2022</h2>
 * <a href="https://www.in.tum.de/caps/lehre/ws21/seminare/cloud-computing/">Cloud Computing Seminar</a>
 * <a href="https://www.in.tum.de/caps/lehre/ws21/praktika/iot-sensor-node-laboratory/">IoT Sensor Nodes Laboratory</a>
-* [Ongoing] <strong><em> Bunk8s: Enabling easy Integration Testing of Microservices in Kubernetes. </em></strong> Christoph Reile (in collab. with <a href="https://www.maibornwolff.de/en/news-portal">Maibornwolff</a>).
-* [Completed, July 2021] <strong><em> Enabling MPI-based Serverless Computing. </em></strong> Nils Krueger.
-
-<br>
-<h3> Application Project </h3>
-* [Ongoing] <strong><em> Splitting Neural Networks for Training Using Function Chaining.</em></strong> Adrian David Castro.
-<br>
-<!-- For students at TUM. -->
-<br>
-<h2>Teaching</h2>
-<br>
 
 <h2>Summer Semester 2022</h2>
 * <a href="https://www.in.tum.de/caps/lehre/ss22/seminare/cloud-computing-seminar/">Cloud Computing Seminar</a>
