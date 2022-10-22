@@ -8,8 +8,8 @@ nav: true
 <h2>Thesis Supervision</h2>
 <br>
 <h3> Master Thesis </h3>
-* [Ongoing] <strong><em> Enabling GPUs for Serverless Federated Learning. </em></strong>. Alexander Jensen.
-* [Ongoing] <strong><em> A Shim for Open-Source FaaS Platforms. </em></strong>. Paul Wieland.
+* [Ongoing] <strong><em> Enabling GPUs for Serverless Federated Learning. </em></strong> Alexander Jensen.
+* [Ongoing] <strong><em> A Shim for Open-Source FaaS Platforms. </em></strong> Paul Wieland.
 * [Ongoing] <strong><em> Optimizing Cold Starts in FaaS with Machine Learning</em></strong>. Saury Pande.
 * [Ongoing] <strong><em> Evaluation of Networked Heterogeneous Edge Systems for Maritime Positioning.
 </em></strong> Alexander Steck (in collab. with <a href="https://covadonga.eu/">Covadonga</a>).
@@ -25,7 +25,7 @@ nav: true
 
 <br>
 <h3> Bachelor Thesis </h3>
-* [Completed, May 2022]] <strong><em> DevOps Versus NoOps: Performance Comparison of an IoT-Platform. </em></strong> Victor Pacyna.
+* [Completed, May 2022] <strong><em> DevOps Versus NoOps: Performance Comparison of an IoT-Platform. </em></strong> Victor Pacyna.
 * [Completed, October 2021] <strong><em> Bunk8s: Enabling easy Integration Testing of Microservices in Kubernetes. </em></strong> Christoph Reile (in collab. with <a href="https://www.maibornwolff.de/en/news-portal">Maibornwolff</a>).
 * [Completed, July 2021] <strong><em> Enabling MPI-based Serverless Computing. </em></strong> Nils Krueger.
 
@@ -33,6 +33,10 @@ nav: true
 <h3> Application Project </h3>
 * [Completed, May 2022] <strong><em> Splitting Neural Networks for Training Using Function Chaining.</em></strong> Adrian David Castro.
 <br>
+<h3> Guided Research </h3>
+* [Ongoing] <strong><em> Review of data storage technologies for serverless Machine Learning.</em></strong> Jacek Kusnierz.
+<br>
+
 <!-- For students at TUM. -->
 <br>
 <h2>Teaching</h2>
