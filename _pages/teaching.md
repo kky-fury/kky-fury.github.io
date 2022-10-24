@@ -33,6 +33,7 @@ nav: true
 <h3> Application Project </h3>
 * [Completed, May 2022] <strong><em> Splitting Neural Networks for Training Using Function Chaining.</em></strong> Adrian David Castro.
 <br>
+
 <h3> Guided Research </h3>
 * [Ongoing] <strong><em> Review of data storage technologies for serverless Machine Learning.</em></strong> Jacek Kusnierz.
 <br>
