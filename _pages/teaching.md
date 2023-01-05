@@ -8,6 +8,7 @@ nav: true
 <h2>Thesis Supervision</h2>
 <br>
 <h3> Master Thesis </h3>
+* [Ongoing] <strong><em> Resource-aware pod (re)scheduling in Kubernetes.</em></strong> Jannik Straube.
 * [Ongoing] <strong><em> Implementing and evaluating keyword spotting neural networks on microcontrollers.</em></strong> Nicklas Guenther (in collab. with <a href="https://www.mixed-mode.de/">Mixed Mode</a>).
 * [Ongoing] <strong><em> Enabling Client Model Heterogeneity for Serverless Federated Learning using Knowledge Distillation.</em></strong> Pulkit Khera.
 * [Ongoing] <strong><em> Enabling GPUs for Serverless Federated Learning. </em></strong> Alexander Jensen.
