@@ -17,7 +17,7 @@ nav: true
 * [Ongoing] <strong><em> Evaluation of Networked Heterogeneous Edge Systems for Maritime Positioning.
 </em></strong> Alexander Steck (in collab. with <a href="https://covadonga.eu/">Covadonga</a>).
 * [Ongoing] <strong><em> Carbon-aware scheduling for Serverless Computing</em></strong>. Thandayuthapani Subramanian.
-* [Ongoing] <strong><em> Optimizing Cost for Provisioning of Cloud Databases using ML Techniques.</em></strong> Berk Gülay (in collab. with SAP Munich).
+* [Completed, February 2023] <strong><em> Optimizing Cost for Provisioning of Cloud Databases using ML Techniques.</em></strong> Berk Gülay (in collab. with SAP Munich).
 * [Completed, November 2022] <strong><em> Migration and Analysis of Microservices to Serverless Architectures.</em></strong> Lennard Nagel (in collab. with Maibornwolff).
 * [Completed, August 2022] <strong><em> Orchestrating Accelerated AI Model Serving for Industrial Applications at the Edge.</em></strong> Mohamad Kanj (in collab. with Siemens).
 * [Completed, July 2022] <strong><em> High Performance FL Using Serverless Computing.</em></strong> Evgeni Kiradzhiyski. <a href="https://mediatum.ub.tum.de/1685431">[Link]</a>
