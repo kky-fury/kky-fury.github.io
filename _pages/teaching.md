@@ -16,7 +16,7 @@ nav: true
 * [Ongoing] <strong><em> Optimizing Cold Starts in FaaS with Machine Learning</em></strong>. Saury Pande.
 * [Ongoing] <strong><em> Evaluation of Networked Heterogeneous Edge Systems for Maritime Positioning.
 </em></strong> Alexander Steck (in collab. with <a href="https://covadonga.eu/">Covadonga</a>).
-* [Ongoing] <strong><em> Carbon-aware scheduling for Serverless Computing</em></strong>. Thandayuthapani Subramanian.
+* [Completed, March 2023] <strong><em> Carbon-aware scheduling for Serverless Computing</em></strong>. Thandayuthapani Subramanian.
 * [Completed, February 2023] <strong><em> Optimizing Cost for Provisioning of Cloud Databases using ML Techniques.</em></strong> Berk Gülay (in collab. with SAP Munich).
 * [Completed, November 2022] <strong><em> Migration and Analysis of Microservices to Serverless Architectures.</em></strong> Lennard Nagel (in collab. with Maibornwolff).
 * [Completed, August 2022] <strong><em> Orchestrating Accelerated AI Model Serving for Industrial Applications at the Edge.</em></strong> Mohamad Kanj (in collab. with Siemens).
@@ -45,6 +45,9 @@ nav: true
 <br>
 <h2>Teaching</h2>
 <br>
+<h2>Summer Semester 2023</h2>
+* <a href="https://www.ce.cit.tum.de/caps/lehre/ss23/praktika/iot-master-lab-course/">IoT Master Lab Course</a>
+* <a href="https://www.ce.cit.tum.de/caps/lehre/ss23/vorlesungen/cloud-computing/">Cloud Computing</a>
 
 <h2>Winter Semester 2022-2023</h2>
 * <a href="https://www.ce.cit.tum.de/caps/lehre/ws22/seminare/cloud-computing/">Cloud Computing Seminar</a>
