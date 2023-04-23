@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="https://www.in.tum.de/caps/startseite/">Chair of Computer Architecture and Parallel Systems (CAPS)</a>. Technical University of Munich.
+description: <a href="https://www.ce.cit.tum.de/caps/startseite/">Chair of Computer Architecture and Parallel Systems (CAPS)</a>. Technical University of Munich.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-My name is Mohak Chadha. I am a third-year PhD student at the Technical University of Munich (TUM) advised by <a href="https://www.in.tum.de/caps/mitarbeiter/michael-gerndt/">Prof. Dr. Michael Gerndt.</a> My research interests are in the domain of serverless, parallel, and high-performance computing.
+My name is Mohak Chadha. I am a third-year PhD student at the Technical University of Munich (TUM) advised by <a href="https://www.ce.cit.tum.de/caps/mitarbeiter/michael-gerndt/">Prof. Dr. Michael Gerndt.</a> My research interests are in the domain of serverless, parallel, and high-performance computing.
 
 During my PhD, I have spent time at the Processor Architecture Research group at Intel Labs.
 

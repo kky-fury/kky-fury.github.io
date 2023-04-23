@@ -15,7 +15,7 @@ nav: true
 * [Ongoing] <strong><em> Enabling GPUs for Serverless Federated Learning. </em></strong> Alexander Jensen.
 * [Ongoing] <strong><em> A Shim for Open-Source FaaS Platforms. </em></strong> Paul Wieland.
 * [Ongoing] <strong><em> Optimizing Cold Starts in FaaS with Machine Learning</em></strong>. Saury Pande.
-* [Ongoing] <strong><em> Evaluation of Networked Heterogeneous Edge Systems for Maritime Positioning.
+* [Completed, April 2023] <strong><em> Evaluation of Networked Heterogeneous Edge Systems for Maritime Positioning.
 </em></strong> Alexander Steck (in collab. with <a href="https://covadonga.eu/">Covadonga</a>).
 * [Completed, March 2023] <strong><em> Carbon-aware scheduling for Serverless Computing</em></strong>. Thandayuthapani Subramanian.
 * [Completed, February 2023] <strong><em> Optimizing Cost for Provisioning of Cloud Databases using ML Techniques.</em></strong> Berk Gülay (in collab. with SAP Munich).
