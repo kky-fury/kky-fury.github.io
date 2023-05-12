@@ -39,7 +39,7 @@ nav: true
 <br>
 
 <h3> Guided Research </h3>
-* [Ongoing] <strong><em> Review of data storage technologies for serverless Machine Learning.</em></strong> Jacek Kusnierz.
+* [Completed, May 2023] <strong><em> Review of data storage technologies for serverless Machine Learning.</em></strong> Jacek Kusnierz.
 <br>
 
 <!-- For students at TUM. -->
