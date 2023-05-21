@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 My name is Mohak Chadha. I am a third-year PhD student at the Technical University of Munich (TUM) advised by <a href="https://www.ce.cit.tum.de/caps/mitarbeiter/michael-gerndt/">Prof. Dr. Michael Gerndt.</a> My research interests are in the domain of serverless, parallel, and high-performance computing.
 
-During my PhD, I have spent time at the Processor Architecture Research group at Intel Labs.
+During my PhD, I have spent time at the Processor Architecture Research group at Intel Labs. In addition, I am a participant of the <a href="https://softwarecampus.de/">Software Campus Program</a> (Class of 2022) in which I am collaborating with the Huawei Munich Research Center on the topic of Serverless Federated Learning.
 
 <!-- where I worked on optimizing certain aspects of FaaS using the hardware features present on next-generation Intel processors. -->
 
