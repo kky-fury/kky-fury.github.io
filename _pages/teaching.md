@@ -10,7 +10,7 @@ nav: true
 <h3> Master Thesis </h3>
 * [Ongoing] <strong><em> Optimizing NN Inferencing across the Continuum using Split Computing and Early Exiting.</em></strong> Issac David Nunez.
 * [Ongoing] <strong><em> Resource-aware pod (re)scheduling in Kubernetes.</em></strong> Jannik Straube.
-* [Ongoing] <strong><em> Implementing and evaluating keyword spotting neural networks on microcontrollers.</em></strong> Nicklas Guenther (in collab. with <a href="https://www.mixed-mode.de/">Mixed Mode</a>).
+* [Completed, July 2023] <strong><em> Implementing and evaluating keyword spotting neural networks on microcontrollers.</em></strong> Nicklas Guenther (in collab. with <a href="https://www.mixed-mode.de/">Mixed Mode</a>).
 * [Completed, June 2023] <strong><em> Enabling Client Model Heterogeneity for Serverless Federated Learning using Knowledge Distillation.</em></strong> Pulkit Khera.
 * [Ongoing] <strong><em> Enabling GPUs for Serverless Federated Learning. </em></strong> Alexander Jensen.
 * [Ongoing] <strong><em> A Shim for Open-Source FaaS Platforms. </em></strong> Paul Wieland.
@@ -29,6 +29,7 @@ nav: true
 
 <br>
 <h3> Bachelor Thesis </h3>
+* [Ongoing] <strong><em> Measurement Strategies for Greenhouse Gas Emissions from Software-as-a-Service </em></strong> Niklas Schoenstein.
 * [Completed, May 2022] <strong><em> DevOps Versus NoOps: Performance Comparison of an IoT-Platform. </em></strong> Victor Pacyna. <a href="https://github.com/CAPS-Cloud/IoT-Platform-Migration/blob/master/doc/Thesis_Victor_Pacyna.pdf">[Link]</a>
 * [Completed, October 2021] <strong><em> Bunk8s: Enabling easy Integration Testing of Microservices in Kubernetes. </em></strong> Christoph Reile (in collab. with <a href="https://www.maibornwolff.de/en/news-portal">Maibornwolff</a>).
 * [Completed, July 2021] <strong><em> Enabling MPI-based Serverless Computing. </em></strong> Nils Krueger.
@@ -46,6 +47,9 @@ nav: true
 <br>
 <h2>Teaching</h2>
 <br>
+<h2>Winter Semester 2023-2024</h2>
+* <a href="https://www.ce.cit.tum.de/caps/lehre/ws22/seminare-1/cloud-computing/">Cloud Computing Seminar</a>
+
 <h2>Summer Semester 2023</h2>
 * <a href="https://www.ce.cit.tum.de/caps/lehre/ss23/praktika/iot-master-lab-course/">IoT Master Lab Course</a>
 * <a href="https://www.ce.cit.tum.de/caps/lehre/ss23/vorlesungen/cloud-computing/">Cloud Computing</a>
