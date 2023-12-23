@@ -13,7 +13,7 @@ nav: true
 * [Completed, July 2023] <strong><em> Implementing and evaluating keyword spotting neural networks on microcontrollers.</em></strong> Nicklas Guenther (in collab. with <a href="https://www.mixed-mode.de/">Mixed Mode</a>).
 * [Completed, June 2023] <strong><em> Enabling Client Model Heterogeneity for Serverless Federated Learning using Knowledge Distillation.</em></strong> Pulkit Khera.
 * [Completed, August 2023] <strong><em> Enabling GPUs for Serverless Federated Learning. </em></strong> Alexander Jensen.
-* [Ongoing] <strong><em> A Shim for Open-Source FaaS Platforms. </em></strong> Paul Wieland.
+* [Completed, September 2023] <strong><em> A Shim for Open-Source FaaS Platforms. </em></strong> Paul Wieland.
 * [Completed, May 2023] <strong><em> Optimizing Cold Starts in FaaS with Machine Learning</em></strong>. Saury Pande.
 * [Completed, April 2023] <strong><em> Evaluation of Networked Heterogeneous Edge Systems for Maritime Positioning.
 </em></strong> Alexander Steck (in collab. with <a href="https://covadonga.eu/">Covadonga</a>).
